@@ -103,6 +103,10 @@ laughing:laughing:
 
 Hexo Documentation: [documentation](https://hexo.io/docs/)
 
+
+[CREATE AN HEXO THEME](http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-1-Index/)
+
+
 ## Quick Start
 
 ### Create a new post

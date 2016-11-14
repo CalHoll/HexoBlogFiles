@@ -1,4 +1,4 @@
-# bootstrap-blog-hexo
+# calholl - Nov 13 2016 - HR Week 2
 Adaptation of http://getbootstrap.com/examples/blog/ for hexo
 
 # Installation
@@ -21,4 +21,3 @@ theme: bootstrap-blog
 # Tutorial
 
 This theme is the result of a [tutorial explaining how to build Hexo Themes from scratch](http://www.codeblocq.com/2016/03/Create-an-Hexo-Theme-Part-1-Index/).
-

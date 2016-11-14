@@ -2,6 +2,8 @@
 menu:
   Home: /
   Archives: /archives
+  Projects: /projects
+  About: /about
 
 # Read More text
 excerpt_link: Read More
@@ -14,5 +16,5 @@ google_analytics:
 
 # Widgets List
 widgets:
-  about: This blog is based off the official bootstrap blog template. Checkout the corresponding tutorial at <a href="http://www.codeblocq.com">http://www.codeblocq.com</a
+  about: This blog is under heavy development and is currently being used as a learning tool. Please feel free to contact me with suggested changes at calvin.c.holloway@gmail.com <br>
   tags: true
