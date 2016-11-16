@@ -77,7 +77,7 @@ tag_generator:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: myTheme
+theme: bootstrap-blog
 
 # Miscellaneous
 favicon:

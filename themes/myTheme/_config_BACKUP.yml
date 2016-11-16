@@ -16,7 +16,7 @@ fancybox: true
 widgets:
   about: This blog is under heavy development and is currently being used as a learning tool. Please feel free to contact me with suggested changes at calvin.c.holloway@gmail.com <br>
   category:
-  tag: true
+  # tag: true
 # - tagcloud
 # - archives
 # - recent_posts
