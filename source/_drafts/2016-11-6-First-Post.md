@@ -1,27 +1,19 @@
 ---
 layout: post
-title: Introductions & How I Built My Jekyll Blog
+title: Introductions & Why I Chose a Hexo Blog
 ---
 
-Hello and welcome to my new site using github pages and Jekyll.  I am a current student of Hack Reactor Remote, cohort 20, and am absolutely thrilled to be diving into the world of Software Engineering!  
+Hello and welcome to my new site using github pages and Hexo.  I am a current student of Hack Reactor Remote, cohort 20, and am absolutely thrilled to be diving into the world of Software Engineering!  
 
 My time at Hack Reactor will be a unique opportunity to experience what it is like to make a shift from Mechanical Engineering to Software Engineering, or a combination thereof.
 
 The purpose of this blog will be to share knowledge and resources that I find particularly interesting, to hopefully assist those who are also trying to get involved.
 
-Finally, I would like to give some credit to those that lead me to publishing here, an awesome couple of senior students: Alex Leo, and Ivey Topaz. Thanks guys!
-
 ----
 
-## Note:
+## Why I Chose Hexo
 
-## This site is under heavy construction as I am using this page to practice implementation of the Hexo blogging library.
-
-## And So...
-
-In the interest of jumping right in, I want to share what has helped me get my site here up and running (while practicing usage of Jekyll).
-
->NOTE: A great youtube intro video about Jekyll: [Build A Blog With Jekyll And GitHub Pages](https://www.youtube.com/watch?v=iWowJBRMtpc)
+In the interest of jumping right in, I want to share what has helped me get my site here up and running.
 
 >>DOUBLENOTE: For those looking for an in depth guide I would recommend the tutorial found here:   [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 

@@ -1,20 +1,64 @@
 # Header
+navbar_brand: false
 menu:
   Home: /
   Archives: /archives
-  Projects: /projects
   About: /about
 
-# Read More text
+
+
+
+# Content
 excerpt_link: Read More
+fancybox: true
 
-# Disqus Comments Shortname
-disqus_shortname:
-
-# Google Analytics Tracking ID
-google_analytics:
-
-# Widgets List
+# Sidebar
 widgets:
   about: This blog is under heavy development and is currently being used as a learning tool. Please feel free to contact me with suggested changes at calvin.c.holloway@gmail.com <br>
-  tags: true
+  category:
+  # tag: true
+# - tagcloud
+# - archives
+# - recent_posts
+# about_widget_content: >
+#   <p>Etiam porta <em>sem malesuada magna</em> mollis euismod.
+#   Cras mattis consectetur purus sit amet fermentum. Aenean
+#   lacinia bibendum nulla sed consectetur.</p>
+
+# Miscellaneous
+google_analytics:
+favicon:
+twitter:
+google_plus:
+
+## Disqus Comments Shortname
+# disqus_shortname:
+#
+# # Google Analytics Tracking ID
+# google_analytics:
+#
+# # Widgets List
+# widgets:
+#   about: This blog is under heavy development and is currently being used as a learning tool. Please feel free to contact me with suggested changes at calvin.c.holloway@gmail.com <br>
+#   tags: true
+#
+# widgets:
+#  - about
+#  - category
+#  - tag
+#  - tagcloud
+#  - archive
+#  - recent_posts
+# about_widget_content: >
+#   <p>This is a demonstration site for the
+#   <a href="https://github.com/cgmartin/hexo-theme-bootstrap-blog">Bootstrap Blog Hexo Theme</a>.
+#   If you enjoy it, send me a tweet <a href="https://twitter.com/c_g_martin" target="_blank"
+#   rel="external">@c_g_martin</a>.</p>
+# excerpt_link: Read More
+# fancybox: true
+# twitter_id: '@c_g_martin'
+# google_analytics:
+
+# # widget behavior
+# archive_type: 'monthly'
+# show_count: true
